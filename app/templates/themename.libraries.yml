@@ -1,0 +1,7 @@
+base:
+  version: VERSION
+  css:
+    theme:
+      css/src/style.css: {}
+  js:
+    js/dist/bundle.js: {}
